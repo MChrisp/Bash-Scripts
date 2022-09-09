@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Thanks to tedboundros. https://github.com/tedboudros/tplink-ub500-linux-patch-guide Just used his description to make this script.
-# Thanks to Aelonun https://askubuntu.com/users/239344/aeolun https://askubuntu.com/questions/1370663/bluetooth-scan-doesnt-detect-any-device-on-ubuntu-21-10
+# Thanks to Aeolun https://askubuntu.com/users/239344/aeolun https://askubuntu.com/questions/1370663/bluetooth-scan-doesnt-detect-any-device-on-ubuntu-21-10
 
 # Initialization
 
