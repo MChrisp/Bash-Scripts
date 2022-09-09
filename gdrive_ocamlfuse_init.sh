@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#All credit to https://github.com/astrada/ocamlfuse Simply made it into a script.
+
 #Init
 
 Main () {
