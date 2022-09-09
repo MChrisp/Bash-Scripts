@@ -1,5 +1,8 @@
 #!/bin/bash
-cd /home/max/xow/
+
+# credit to https://github.com/medusalix/xow
+
+cd ~/xow/
 sudo systemctl stop xow
 sudo systemctl disable xow
 sudo make uninstall
