@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Thanks to tedboundros. https://github.com/tedboudros/tplink-ub500-linux-patch-guide Just used his description to make this script.
+
 # Initialization
 
 FIX_UB_500_BT_Stick () {
